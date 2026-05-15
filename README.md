@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alvaro Postigo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
-
-- 🔭 I’m student of system and computer engineering at **UTP University**
+<h3 align="center">I´m student of systems engineering at the Technological University of Perú **UTP** </h3>
 
 - 🌱 I have knowledge of networks and security **CISCO**
 
-- 👯 I have knowledge of programing **JAVA, HTML, CSS**, operating systems and distributed systems. 
+- 🔭 I have knowledge of programing **JAVA, HTML, CSS**, operating systems and distributed systems. 
 
 - 📫 How to reach me: **Alvarozahid.p.ch@gmail.com**
 
@@ -14,7 +12,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lauro_brant-1/](https://www.linkedin.com/in/alvaro-zahid-postigo-chumacero-958959399/?skipRedirect=true)) 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alvaro-zahid-postigo-chumacero-958959399/?skipRedirect=true)) 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.Alvarozahid.p.ch@gmail.com)
   
 </div>
